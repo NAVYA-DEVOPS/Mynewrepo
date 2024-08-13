@@ -21,5 +21,5 @@ function validateForm()
 		alert(errorMessage);return false;
 	}
 	alert('Form Submited Successfully..');
-	window.location.href = 'success.html';
+	window.location.href = 'success1.html';
 }
